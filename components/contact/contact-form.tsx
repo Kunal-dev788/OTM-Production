@@ -117,7 +117,7 @@ export function ContactForm() {
             name="name"
             type="text"
             autoComplete="name"
-            placeholder="Kunal Rathore"
+            placeholder="Piyush Rathore"
             value={values.name}
             aria-describedby={showError("name") ? "contact-name-error" : undefined}
             aria-invalid={showError("name")}

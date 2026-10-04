@@ -68,9 +68,9 @@ export function SiteFooter() {
         <div className="footer-bottom">
           <p className="footer-credit">
             Developed by{" "}
-            <a href="https://www.kunalrathoredev.in/" target="_blank" rel="noreferrer">
-              Kunal Rathore
-            </a>
+            {/* <a href="https://www.kunalrathoredev.in/" target="_blank" rel="noreferrer">
+              OTM Team
+            </a> */}
           </p>
           <div className="footer-legal-links">
             <a href="/privacy">Privacy Policy</a>
